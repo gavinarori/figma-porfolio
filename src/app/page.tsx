@@ -8,7 +8,7 @@ export default function Home() {
           <h1 className="absolute w-[15px] h-[48px] left-[1280px] top-[690px]  text-[12px] leading-[14px] uppercase text-black transform -rotate-90">scroll</h1>
           <div className="absolute w-0 h-[90px] left-[1242px] top-[690px] border-[1px] border-solid border-black transform rotate-10"></div>
           <h1 className="absolute w-[736px] h-[140px] left-[160px] top-[191px] font-bold  text-[56px] leading-[76px] text-black">
-            Hi, <span className="w-[291px] h-[10px] left-[245px] top-[233px] bg-[#A8B4FF]">I’m Saqlain</span> ,<br /> Web & App Designer
+            Hi, <span className="w-[291px] h-[10px] left-[245px] top-[233px] bg-[#A8B4FF]">I’m Eliud Maiko</span> ,<br /> Web & App Designer
           </h1>
           
           <div className="absolute w-[209px] h-[67px] left-[163px] top-[562px]">
@@ -18,7 +18,7 @@ export default function Home() {
             </div>
           </div>
 
-          <h1 className="absolute w-[84px] h-[25px] left-[163px] top-[56px] font-semibold  text-[20px] leading-[23px] "><span className="text-[#A8B4FF]">i</span>Saqlain</h1>
+          <h1 className="absolute w-[84px] h-[25px] left-[163px] top-[56px] font-semibold  text-[20px] leading-[23px] "><span className="text-[#A8B4FF]">i</span>Eliud</h1>
           <div className="absolute w-[77px] h-[24px] left-[1047px] top-[56px]">
             <p className=" w-[75px] h-[23px] left-[1047px] top-[56px] font-semibold text-[18px] leading-[21px] lowercase text-black">my work</p>
             <div className=" w-[75px] h-[12px]  left-[1049px] -mt-3 top-[56px] bg-[#A8B4FF]">
