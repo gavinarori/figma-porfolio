@@ -22,27 +22,19 @@ export default function Home() {
           <div className="absolute w-[77px] h-[24px] left-[1047px] top-[56px]">
             <p className=" w-[75px] h-[23px] left-[1047px] top-[56px] font-semibold text-[18px] leading-[21px] lowercase text-black">my work</p>
             <div className=" w-[75px] h-[12px]  left-[1049px] -mt-3 top-[56px] bg-[#A8B4FF]">
-            <svg width="75" height="12" viewBox="0 0 75 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="75" height="12" fill="#A8B4FF"/>
-            </svg>
+            
             </div>
           </div>
           <div className="absolute w-[103px] h-[24px] left-[1171px] top-[56px]">
             <p className=" w-[112px] h-[23px] left-[1171px] top-[56px] font-semibold  text-[18px] leading-[21px] lowercase text-black">get In Touch</p>
             <div className=" w-[107px] h-[12px] left-[1173px] -mt-3 top-[68px] bg-[#A8B4FF]">
-            <svg width="101" height="12" viewBox="0 0 101 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="101" height="12" fill="#A8B4FF"/>
-            </svg>
+            
             </div>
           </div>
           <p className="absolute w-[496px] h-[128px] left-[160px] top-[370px]  font-normal text-[18px] leading-[180%] text-black">I design and build beautiful websites and apps for <br /> businesses around the globe. If you need a modern and <br /> powerful website, send me an email. If we are a good fit, I <br /> will give you a time and cost estimate.</p>
-          <div className="absolute w-[285px] h-[28px] left-[163px] top-[306px] bg-[#A8B4FF]">
-            
-          </div>
+         
           <div className="box-border  w-[1392px] h-[744px] left-[24px] top-[24px] bg-[#EAECF9]">
-          <svg width="1392" height="744" viewBox="0 0 1392 744" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <rect width="1392" height="744" fill="#EAECF9"/>
-          </svg>
+          
           </div>
         </div>
       </div>
@@ -113,8 +105,38 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="absolute w-[252px] h-[76px] left-[160px] top-[2380px]">
-        d
+      <div className="absolute w-[300px] h-[76px] left-[160px] top-[2380px]">
+        <h1 className="font-['Abril Fatface'] font-normal text-[56px] leading-[76px] text-[#000000]">What I do</h1>
+      </div>
+      <div className="absolute w-[86px] h-[33px] left-[736px] top-[2403px]">
+        <h3 className="font-['Muli'] text-[26px] leading-[30px] capitalize text-[#000000]">design</h3>
+      </div>
+      <div className="absolute w-[448px] h-[128px] left-[736px] top-[2445px]">
+        <p className="font-normal not-italic text-[18px] leading-[180%] text-[#000000]"> I design beautiful and powerful websites for modern businesses. Any business today needs a website that wins customers’ trust and helps you do your business well. I make sure your website is up to that standard.</p>
+      </div>
+      <div className="absolute flex flex-row w-[200px] mt-5 h-[25px] left-[736px] top-[2597px]">
+        <p className="font-['Nunito Sans'] not-italic font-bold text-lg leading-6 lowercase">Work Samples</p>
+        <svg width="35" height="15" className="ml-7 mt-2" viewBox="0 0 35 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_1_485)">
+              <path d="M26.8889 0.395081L26 1.59467L31.5 6.5H0V7.8H31.5L26 12.7757L26.8889 13.9753L34.2963 7.1852L26.8889 0.395081Z" fill="black"/>
+            </g>
+          <defs>
+            <clipPath id="clip0_1_485">
+                <rect width="35" height="15" fill="white"/>
+            </clipPath>
+          </defs>
+        </svg>
+      </div>
+      <div className="box-border absolute w-[1392px] h-[370px] left-6 top-[2823px] bg-[#EAECF9]">
+      <div className="absolute w-[448px] h-[76px] left-[160px] mt-[50px]">
+        <h1 className="font-['Abril Fatface'] font-normal text-[56px] leading-[76px] text-[#000000]"> Want to work?</h1>
+      </div>
+      <div className="absolute w-[448px] h-[128px] left-[736px] mt-[50px]">
+        <p className="font-normal not-italic text-[18px] leading-[180%] text-[#000000]"> If you need a modern and powerful website for your business, startup or personally, I am available for work. You can email me directly at <span className="bg-[#A8B4FF]">hello@isaqlain.com</span> .</p>
+      </div>
+      <div className="absolute w-[544px] h-[25px] left-[160px] mt-[321px] ">
+        <p className=" text-[14px] leading-[180%]">© All right reserved – Saqlain Shaikh</p>
+      </div>
       </div>
     </main>
   );
