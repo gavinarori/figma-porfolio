@@ -112,6 +112,10 @@ export default function Home() {
             </div>
         </div>
       </div>
+
+      <div className="absolute w-[252px] h-[76px] left-[160px] top-[2380px]">
+        d
+      </div>
     </main>
   );
 }
